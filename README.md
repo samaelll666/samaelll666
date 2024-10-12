@@ -22,26 +22,11 @@ Aqui estão algumas das tecnologias que domino:
 - **React.js** e **Vue.js** (ou qualquer framework que você estiver aprendendo ou utilizando)
 - **SQL** & **NoSQL**
   
-### Outros Conhecimentos:
-- **Desenvolvimento Frontend** e **Backend**
-- **Integração de APIs**
-- **Testes Unitários**
-  
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)](https://github.com/seuusuario/github-readme-stats)
-
-## 🚧 Projetos em Destaque
-
-Aqui estão alguns dos projetos em que estou trabalhando:
-
-### 🔨 [Nome do Projeto 1](https://github.com/seuusuario/projeto1)
-Uma breve descrição do projeto. Explicar o que o projeto faz, suas principais funcionalidades e as tecnologias usadas.
-
-### 🔨 [Nome do Projeto 2](https://github.com/seuusuario/projeto2)
-Descrição semelhante ao projeto acima, mas com foco nas particularidades e o que ele traz de interessante.
 
 ## 📫 Como Entrar em Contato
 
