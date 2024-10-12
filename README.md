@@ -1,39 +1,18 @@
-### Olá 👋
-
+# 💫 About Me:
 Programador front-end / back-end
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Informações
 
-<img align="right" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2Fgiphy.gif&f=1&nofb=1&ipt=e643e1b66178a9bce9cbcc4ee1ad0a2f398393b535d04c5deaf65d803ce3fed6&ipo=images" />
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leozinnn666) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leozinnn666) 
 
-```python
-sobre_mim = {
-  'Nome'     : "Leonardo",
-}
-```
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leozinnn&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leozinnn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## **Linguagens e Ferramentas**  
+---
+[![](https://visitcount.itsvg.in/api?id=leozinnn&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-## **GitHub Estatísticas**
-<div>
- <center>
-<a href="https://github.com/leozinnn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnn&layout=compact&langs_count=7&theme=radical">
-</a>
-<a href="https://github.com/leozinnn">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leozinnn&show_icons=true&theme=radical&count_private=true">
-</a>
-  </center>
-</div>
-
-#### Redes Sociais
-
-🐦 [Twitter][twitter] **|** 
-📷 [Instagram][instagram] **|** 
-👔 [Linkedin][linkedin]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
