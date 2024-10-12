@@ -25,19 +25,14 @@ sobre_mim = {
 ## **GitHub Estatísticas**
 <div>
  <center>
-<a href="https://github.com/ArielBADs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBADs&layout=compact&langs_count=7&theme=radical">
+<a href="https://github.com/leozinnn">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnn&layout=compact&langs_count=7&theme=radical">
 </a>
-<a href="https://github.com/ArielBADs">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
+<a href="https://github.com/leozinnn">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leozinnn&show_icons=true&theme=radical&count_private=true">
 </a>
   </center>
 </div>
-
-[twitter]: https://twitter.com/ArielVieira19
-[instagram]: https://www.instagram.com/arielvieira_ofc
-[linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
-<br>
 
 #### Redes Sociais
 
